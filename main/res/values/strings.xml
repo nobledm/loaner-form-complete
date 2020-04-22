@@ -34,7 +34,7 @@
 
     <string name="prefkey_phone">phone</string>
     <string name="prefsum_phone">Phone number that the Loaner Coordinator can be best reached at</string>
-    <string name="prefdefault_phone">780.452.9100</string>
+    <string name="prefdefault_phone">123.456.7894</string>
 
     <string name="prefkey_email">email</string>
     <string name="prefsum_email">Loaner Coordinator\'s email address</string>
