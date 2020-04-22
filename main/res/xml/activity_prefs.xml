@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    >
+    <PreferenceCategory android:title="@string/coordinator_info">
+        <EditTextPreference
+            android:title="@string/field_name"
+            android:key="@string/prefkey_name"
+            android:defaultValue="@string/prefdefault_name"
+            android:summary="@string/prefsum_name"
+        />
+
+        <EditTextPreference
+            android:title="@string/field_phone"
+            android:key="@string/prefkey_phone"
+            android:defaultValue="@string/prefdefault_phone"
+            android:summary="@string/prefsum_phone"
+        />
+
+        <EditTextPreference
+            android:title="@string/field_email"
+            android:key="@string/prefkey_email"
+            android:defaultValue="@string/prefdefault_email"
+            android:summary="@string/prefsum_email"
+        />
+    </PreferenceCategory>
+</PreferenceScreen>

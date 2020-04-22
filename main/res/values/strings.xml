@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Loaner Form</string>
+
+    <!-- Generic -->
+    <string name="coordinator_info">Loaner Coordinator Info</string>
+    <string name="field_name">Name</string>
+    <string name="field_phone">Phone</string>
+    <string name="field_email">Email Address</string>
+
+    <!-- Form Fields/Actions -->
+    <string name="form_scope">Telescope Borrowed</string>
+    <string name="form_addEq">Additional Equipment (eye pieces, etc)</string>
+    <string name="form_lendingPeriod">Lending Period</string>
+    <string name="form_from">From</string>
+    <string name="form_return">Return Date</string>
+    <string name="form_borrower">Borrower\'s Info</string>
+    <string name="form_isMember">Is an RASC Member?</string>
+    <string name="form_deposit40">Deposit: $40</string>
+    <string name="form_deposit0">Deposit: $0</string>
+    <string name="form_terms">Rental Agreement</string>
+    <string name="form_agreeTerms">I understand and agree to all the Terms &amp; Conditions laid out in the Rental Agreement.</string>
+
+    <string name="form_takePic">Take Photo of License</string>
+    <string name="form_signature">Signature</string>
+    <string name="sig_clear">Clear</string>
+
+    <string name="form_submit">Finish</string>
+
+    <!-- Preferences -->
+    <string name="prefs_title">Settings</string>
+    <string name="prefkey_name">name</string>
+    <string name="prefsum_name">Name of the active Loaner Coordinator</string>
+    <string name="prefdefault_name">John Doe</string>
+
+    <string name="prefkey_phone">phone</string>
+    <string name="prefsum_phone">Phone number that the Loaner Coordinator can be best reached at</string>
+    <string name="prefdefault_phone">780.452.9100</string>
+
+    <string name="prefkey_email">email</string>
+    <string name="prefsum_email">Loaner Coordinator\'s email address</string>
+    <string name="prefdefault_email">danine.noble@gmail.com</string>
+</resources>
